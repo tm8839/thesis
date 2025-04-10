@@ -1,6 +1,6 @@
 # thesis
 
-This repository contains all of the code used in my 2025 Senior Thesis. If you are looking to recreate my results, following the steps listed below.
+This repository contains all of the code used in my 2025 Senior Thesis. If you are looking to recreate my results, follow the steps listed below.
 
 1. Stata:
    The .do file "thesisDataDo.do" will compile all the data necssary as is using Stata. The only caveat is that Github could not hold the large play-by-play files, so you will need to download these yourself. Go to:
